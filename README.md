@@ -1,8 +1,8 @@
 # Request Header Parser Microservice
 
-This is a project done in completion of my Backend & API development course on FreeCodeCamp. It simply returns several the request header information.
+This is a project done in completion of my Backend & API development course on FreeCodeCamp. It returns parsed selected information from the request header.
 
-Link to live API :link: : 
+Link to live API :link: : https://fcc-req-header-parser.vercel.app/
 
 ```
 GET / 
